@@ -1,5 +1,12 @@
-### Hi there 👋
+### I'm mirusu400.
 
+Mainly interested in data analyzing and editing(Modding). I'm in military so my response may be slow, but if you want to contact me please mail me in my profile.
+
+[Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
+
+[![mirusu400's github stats](https://github-readme-stats.vercel.app/api?username=mirusu400)](https://github.com/mirusu400)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)
 <!--
 **mirusu400/mirusu400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

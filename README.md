@@ -6,7 +6,7 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 
 [Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
 
-[Also my userpage](http://3.34.106.244/).
+[Also my userpage](http://mirunamu.studio/).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirusu400)](https://github.com/mirusu400/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirusu400)](https://github.com/mirusu400/github-readme-stats)

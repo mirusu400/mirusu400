@@ -12,6 +12,8 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirusu400)](https://github.com/mirusu400/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirusu400)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **mirusu400/mirusu400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

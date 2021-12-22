@@ -20,10 +20,10 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 * [PC]Scantailor Advanced(2019)
 * [PC]Tartube(2021)
 
-## Activity (CTF / Hacking)
+## Activity (Others)
 * 다운로드 수 100만회 APP 관리자권한 해킹
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
-* 사이버 공격방어 대회(CCE) 예선 13등 본선 7등 (공공분야)
+* 사이버 공격방어 대회(CCE) 2021 예선 13등 본선 7등 (공공분야)
 * Layer7 CTF 2021 일반 6등
 * BISC CTF 2021 종합 4등
 * 국방 START-UP 챌린지 국방부장관상 (우수상)

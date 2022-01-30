@@ -6,7 +6,7 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 
 [Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
 
-[Also my userpage](http://mirunamu.studio/).
+[Also my userpage](http://mirunamu.tech/).
 
 ## 🇰🇷 Activity (Localization)
 * [NGC]슈퍼마리오 선샤인(Super Mario Sunshine)(2015)
@@ -20,6 +20,18 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 * [PC]Scantailor Advanced(2019)
 * [PC]Tartube(2021)
 
+## ✈ Projects
+* [Harvest Moon(DS) translate tools](https://github.com/mirusu400/HarvestMoon_Translate_Tools)  - 목장이야기 시리즈 번역 도구
+* [post.naver.com crawler](https://github.com/mirusu400/postnaver_Crawler)                      - [post.naver.com](https://post.naver.com/) 크롤러
+* [Pinterest crawler](https://github.com/mirusu400/Pinterest-infinite-crawler)                  - [Pinterest](https://pinterest.com/) 크롤러
+* [drawfontimage](https://github.com/mirusu400/drawfontimage)                                   - 폰트를 고정폭 이미지 파일로 생성해주는 도구
+* [dcinside-web-mirror](https://github.com/mirusu400/dcinside-web-mirror)                       - 디시인사이드 비공식 API를 이용해 만든 웹 미러
+* [klas-helper](https://github.com/klas-helper/klas-helper)                                     - 광운대학교 KLAS 확장프로그램 (Main contributor)
+
+## ✈ Projects..?
+* [Raycity custom DB](https://github.com/mirusu400/Raycity-CustomDB-backup)
+* [Pyslayer](https://github.com/mirusu400/PySlayer)
+
 ## 🚩 Activity (CTF)
 * 사이버 공격방어 대회(CCE) 2021 공공분야 예선 13등 본선 7등
 * Layer7 CTF 2021 일반 6등
@@ -32,23 +44,8 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 * 국방 START-UP 챌린지 국방부장관상 (우수상)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirusu400)](https://github.com/mirusu400/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirusu400)](https://github.com/mirusu400/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mirusu400)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**mirusu400/mirusu400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

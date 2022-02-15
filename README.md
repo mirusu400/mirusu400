@@ -37,7 +37,8 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 * Layer7 CTF 2021 일반 6등
 * BISC CTF 2021 종합 4등
 * t3n4ci0us Christmas CTF 2021 종합 1등
-
+* t3n4ci0us CTF 2022 종합 1등
+* 
 ## 📙 Activity (Others)
 * 다운로드 수 100만회 APP 관리자권한 해킹
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)

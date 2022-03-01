@@ -33,7 +33,7 @@ Usually using `Python3` and `Autohotkey` for programming and `Python3` for probl
 * [Pyslayer](https://github.com/mirusu400/PySlayer)
 
 ## 🚩 Activity (CTF)
-* [사이버 공격방어 대회(CCE) 2021 공공분야 예선 13등 본선 7등](https://github.com/mirusu400/mirusu400/blob/main/CCE2021.PNG?raw=true)
+* [사이버 공격방어 대회(CCE) 2021 공공분야 Qualifier](https://github.com/mirusu400/mirusu400/blob/main/CCE2021.PNG?raw=true)
 * Layer7 CTF 2021 일반 6등
 * BISC CTF 2021 종합 4등
 * [t3n4ci0us Christmas CTF 2021 종합 1등](https://github.com/mirusu400/mirusu400/blob/main/Certificationmirusu400.jpg?raw=true)

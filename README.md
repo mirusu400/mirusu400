@@ -1,8 +1,12 @@
 # I'm mirusu400.
 
-Mainly interested in `data analyzing` and `editing(Modding)`. I'm in military so my response may be slow, but if you want to contact me please mail me in my profile.
+For now, I'm interesting about `Web Framework(Django, FastAPI)`, `Crawling`, `webRTC` so I'm keep learning about.
 
-Usually using `Python3` and `Autohotkey` for programming and `Python3` for problem solving, but I also learning C, C++, JavaScript, PHP.
+Also interested in `data analyzing` and `editing(Modding)`.
+
+I'm in military so my response may be slow, but if you want to contact me please mail me in my profile.
+
+Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3` for problem solving, but I also learning C, C++, PHP.
 
 [Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
 

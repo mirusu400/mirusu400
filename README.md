@@ -4,7 +4,7 @@ For now, I'm interesting about `Web Framework(Django, FastAPI)`, `Crawling`, `we
 
 Also interested in `data analyzing` and `editing(Modding)`.
 
-I'm in military so my response may be slow, but if you want to contact me please mail me in my profile.
+If you want to contact me, or need my help(about Localization or anything!) please mail me in my profile.
 
 Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3` for problem solving, but I also learning C, C++, PHP.
 

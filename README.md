@@ -1,10 +1,10 @@
 # I'm mirusu400.
 
-For now, I'm interesting about `Web Framework(Django, FastAPI)`, `Crawling`, `webRTC` so I'm keep learning about.
+Interested in `Windows Reversing` and `Crawling`. 
 
 Also interested in `data analyzing` and `editing(Modding)`.
 
-If you want to contact me, or need my help(about Localization or anything!) please mail me in my profile.
+If you want to contact me, or need my help(about Localization/Reversing/Crawling or anything!) please mail me in my profile.
 
 Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3` for problem solving, but I also learning C, C++, PHP.
 
@@ -44,6 +44,7 @@ Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3
 * [t3n4ci0us CTF 2022 종합 1등](https://github.com/mirusu400/mirusu400/blob/main/t3n4ci0us_mirusu400.jpg?raw=true)
 
 ## 📙 Activity (Others)
+* 2022년 4월 TOPCIT 496점 (Unofficial)
 * 다운로드 수 100만회 APP 관리자권한 해킹
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 국방 START-UP 챌린지 국방부장관상 (우수상)

@@ -12,6 +12,8 @@ Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3
 
 [Also my userpage](http://mirunamu.tech/).
 
+[My LinkedIn Profile](https://www.linkedin.com/in/%EC%84%B1%EC%A7%84-%EA%B9%80-031b08228/)
+
 ## 🇰🇷 Activity (Localization)
 * [NGC]슈퍼마리오 선샤인(Super Mario Sunshine)(2015) - `Rom analyze`, `Editing`
 * [NDS]목장이야기 어서오세요! 바람의 바자회(Harvest Moon - Grand Bazzar)(2015) - `Rom analyze`, `Editing`

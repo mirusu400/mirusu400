@@ -38,7 +38,7 @@ Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3
 
 ## ✈ Projects..?
 * [Raycity custom DB](https://github.com/mirusu400/Raycity-CustomDB-backup)  - Database by reversing leaked Raycity server
-* [Pyslayer](https://github.com/mirusu400/PySlayer)                          - Server emulator of game `WindSlayer`.
+* [Pyslayer](https://github.com/mirusu400/PySlayer)                          - Server emulator of game `WindSlayer`
 
 ## 🚩 Activity (CTF)
 * [사이버 공격방어 대회(CCE) 2021 공공분야 Qualifier](https://github.com/mirusu400/mirusu400/blob/main/CCE2021.PNG?raw=true)

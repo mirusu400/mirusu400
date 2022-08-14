@@ -10,7 +10,7 @@ Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3
 
 [Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
 
-[Also my userpage](http://mirunamu.tech/).
+[Also my userpage](http://mirunamu.kro.kr/).
 
 [My LinkedIn Profile](https://www.linkedin.com/in/%EC%84%B1%EC%A7%84-%EA%B9%80-031b08228/)
 

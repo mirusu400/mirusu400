@@ -26,6 +26,7 @@ Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3
 * [WEB]Vscode extionsion API(2019) - `Translate`
 * [PC]Scantailor Advanced(2019) - `Translate`
 * [PC]Tartube(2021) - `Translate`
+* [PC]ImHex(2022) - `Translate`
 * [And lots of things (Gitlab, x64dbg, Minecraft, etc..)](https://crowdin.com/profile/mirusu400)
 
 ## ✈ Projects

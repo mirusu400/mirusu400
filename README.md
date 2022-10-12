@@ -1,14 +1,18 @@
 # I'm mirusu400.
 
-Interested in `Windows Reversing` and `Crawling`. 
+On a daytime, I'm a second year undergraduate student major in computer engineering. I usually learn Data structure, verilog, assembly, C++, etc.
 
-Also interested in `data analyzing` and `editing(Modding)`.
+On a nightime, I'm a hacker. I usually learn security related stuffs, solving CTFs, bugbounty, etc.
 
-If you want to contact me, or need my help(about Localization/Reversing/Crawling or anything!) please mail me in my profile.
+Mainly interested in `Windows Reversing`, `Webhacking` and `Editing(Modding)`.
 
-Usually using `Python3`, `Javascript`, `Autohotkey` for programming and `Python3` for problem solving, but I also learning C, C++, PHP.
+I also keep learning about web programming.
+
+Usually using `Python3`, `Javascript` for programming and `Python3` for problem solving, but I also learning C, C++, ASM, .
 
 [Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
+
+If you want to contact me, or need my help(about Localization/Reversing/Modding/Web or anything!) please mail me in my profile.
 
 [Also my userpage](http://mirunamu.kro.kr/).
 

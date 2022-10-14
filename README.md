@@ -46,17 +46,18 @@ If you want to contact me, or need my help(about Localization/Reversing/Modding/
 * [Pyslayer](https://github.com/mirusu400/PySlayer)                          - Server emulator of game `WindSlayer`
 
 ## 🚩 Activity (CTF)
-* [사이버 공격방어 대회(CCE) 2021 공공분야 Qualifier](https://github.com/mirusu400/mirusu400/blob/main/CCE2021.PNG?raw=true)
-* Layer7 CTF 2021 일반 6등
-* BISC CTF 2021 종합 4등
-* [t3n4ci0us Christmas CTF 2021 종합 1등](https://github.com/mirusu400/mirusu400/blob/main/Certificationmirusu400.jpg?raw=true)
-* [t3n4ci0us CTF 2022 종합 1등](https://github.com/mirusu400/mirusu400/blob/main/t3n4ci0us_mirusu400.jpg?raw=true)
+* [사이버 공격방어 대회(CCE) 2021 Qualifier (Public)](https://github.com/mirusu400/mirusu400/blob/main/CCE2021.PNG?raw=true)
+* Layer7 CTF 2021 6th prize (General)
+* BISC CTF 2021 4th prize (종합)
+* [t3n4ci0us Christmas CTF 2021 1st prize](https://github.com/mirusu400/mirusu400/blob/main/Certificationmirusu400.jpg?raw=true)
+* [t3n4ci0us CTF 2022 종합 1st prize](https://github.com/mirusu400/mirusu400/blob/main/t3n4ci0us_mirusu400.jpg?raw=true)
 
 ## 📙 Activity (Others)
-* 2022년 4월 TOPCIT 496점 (Unofficial)
-* 다운로드 수 100만회 APP 관리자권한 해킹
+* 2022/04 TOPCIT Score 496 (Unofficial)
+* 다운로드 수 100만회 APP 관리자권한 탈취 취약점 발견
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
-* 국방 START-UP 챌린지 국방부장관상 (우수상)
+* 2021 국방 START-UP 챌린지 국방부장관상 (우수상)
+* 2022 WooriCon (우리은행 모의해킹) 3rd prize
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)

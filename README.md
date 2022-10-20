@@ -58,7 +58,7 @@ If you want to contact me, or need my help(about Localization/Reversing/Modding/
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 2021 국방 START-UP 챌린지 국방부장관상 (우수상)
 * 2022 SW Maestro 13rd
-* 2022 Wooricon 3rd Prize (우리은행 모의해킹 경진대회, 우수상)
+* [2022 Wooricon 3rd Prize (우리은행 모의해킹 경진대회, 우수상)](http://www.koreastocknews.com/news/articleView.html?idxno=75209)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)

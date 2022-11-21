@@ -1,20 +1,8 @@
 # I'm mirusu400.
 
-On a daytime, I'm a second year undergraduate student major in computer engineering. I usually learn Data structure, verilog, assembly, C++, etc.
-
-On a nightime, I'm a hacker. I usually learn security related stuffs, solving CTFs, bugbounty, etc.
-
-Mainly interested in `Windows Reversing`, `Webhacking` and `Editing(Modding)`.
-
-I also keep learning about web programming.
-
-Usually using `Python3`, `Javascript` for programming and `Python3` for problem solving, but I also learning C, C++, ASM, .
-
-[Here are my blog](https://blog.naver.com/mirusu400), written my works(in Korean).
-
 If you want to contact me, or need my help(about Localization/Reversing/Modding/Web or anything!) please mail me in my profile.
 
-[Also my userpage](http://mirunamu.kro.kr/).
+[My userpage](http://mirunamu.kro.kr/).
 
 [My LinkedIn Profile](https://www.linkedin.com/in/%EC%84%B1%EC%A7%84-%EA%B9%80-031b08228/)
 

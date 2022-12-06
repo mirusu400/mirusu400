@@ -44,7 +44,7 @@ If you want to contact me, or need my help(about Localization/Reversing/Modding/
 
 
 ## 📙 Activity (Others)
-* 2022/11 TOPCIT Score 635 (Unofficial)
+* 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 2021 국방 START-UP 챌린지 국방부장관상 (우수상)
 * 2022 SW Maestro 13rd

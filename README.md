@@ -42,6 +42,7 @@ If you want to contact me, or need my help(about Localization/Reversing/Modding/
 * [t3n4ci0us CTF 2022 종합 1st prize](https://github.com/mirusu400/mirusu400/blob/main/t3n4ci0us_mirusu400.jpg?raw=true)
 * [2022 Wooricon 3rd Prize (우리은행 모의해킹 경진대회, 우수상)](http://www.koreastocknews.com/news/articleView.html?idxno=75209)
 * 2022 Naver Bug Bounty Hall of Fame
+* 2023 Naver Bug Bounty Hall of Fame (예정)
 
 ## 📙 Activity (Others)
 * 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)

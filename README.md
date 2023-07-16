@@ -7,7 +7,7 @@ If you want to contact me, or need my help(about Localization/Reversing/Modding/
 [My LinkedIn Profile](https://www.linkedin.com/in/%EC%84%B1%EC%A7%84-%EA%B9%80-031b08228/)
 
 ## 🇰🇷 Activity (Localization)
-See [Localizations.md](./LOCALIZATION.md)
+See [Localizations.md](./LOCALIZATIONS.md)
 
 ## ✈ Projects
 * [Harvest Moon(DS) translate tools](https://github.com/mirusu400/HarvestMoon_Translate_Tools)  - 목장이야기 시리즈 번역 도구

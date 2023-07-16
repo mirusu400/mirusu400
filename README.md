@@ -11,10 +11,8 @@ See [Localizations.md](./LOCALIZATIONS.md)
 
 ## ✈ Projects
 * [Harvest Moon(DS) translate tools](https://github.com/mirusu400/HarvestMoon_Translate_Tools)  - 목장이야기 시리즈 번역 도구
-* [post.naver.com crawler](https://github.com/mirusu400/postnaver_Crawler)                      - [post.naver.com](https://post.naver.com/) 크롤러
 * [Pinterest crawler](https://github.com/mirusu400/Pinterest-infinite-crawler)                  - [Pinterest](https://pinterest.com/) 크롤러
 * [drawfontimage](https://github.com/mirusu400/drawfontimage)                                   - 폰트를 고정폭 이미지 파일로 생성해주는 도구
-* [dcinside-web-mirror](https://github.com/mirusu400/dcinside-web-mirror)                       - 디시인사이드 비공식 API를 이용해 만든 웹 미러
 * [klas-helper](https://github.com/klas-helper/klas-helper)                                     - 광운대학교 KLAS 확장프로그램 (Main contributor)
 
 ## ✈ Projects..?

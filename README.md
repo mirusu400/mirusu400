@@ -1,6 +1,6 @@
 # I'm mirusu400.
 
-If you want to contact me, or need my help(about Localization/Reversing/Modding/Web or anything!) please mail me in my profile.
+If you want to contact me, or need my help(about Localization/Reversing/Modding/Web or anything!) please mail me through my profile.
 
 [My userpage](http://mirunamu.kro.kr/).
 

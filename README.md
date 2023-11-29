@@ -29,7 +29,7 @@ See [Localizations.md](./LOCALIZATIONS.md)
 * [2022 Wooricon 3rd Prize (우리은행 모의해킹 경진대회, 우수상)](http://www.koreastocknews.com/news/articleView.html?idxno=75209)
 * 2022 Naver Bug Bounty Hall of Fame
 * 2023 Naver Bug Bounty Hall of Fame
-* [2023 Whitehat together 2nd Price (화이트햇 투게더 시즌2, 우수상]()
+* [2023 Whitehat together 2nd Price (화이트햇 투게더 시즌2, 우수상)]()
 
 ## 📙 Activity (Others)
 * 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)
@@ -37,6 +37,7 @@ See [Localizations.md](./LOCALIZATIONS.md)
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 2021 국방 START-UP 챌린지 국방부장관상 (우수상)
 * 2022 SW Maestro 13rd
+* 2023 Open Source Contribution Academy Mentee - uftrace (최우수상)
 
 
 

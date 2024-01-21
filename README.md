@@ -29,8 +29,9 @@ See [Localizations.md](./LOCALIZATIONS.md)
 * [2022 Wooricon 3rd Prize (우리은행 모의해킹 경진대회, 우수상)](http://www.koreastocknews.com/news/articleView.html?idxno=75209)
 * 2022 Naver Bug Bounty Hall of Fame
 * 2023 Naver Bug Bounty Hall of Fame
-* 2023 Kakao Bug Bounty Hall of Fame
+* [2023 Kakao Bug Bounty Hall of Fame](https://bugbounty.kakao.com/notice/halloffame)
 * [2023 Whitehat together 2nd Price (화이트햇 투게더 시즌2, 우수상)](https://boannews.com/media/view.asp?idx=124743)
+* [2023 Findthegap X-MAS Catch the Bug 2nd Price](https://www.instagram.com/p/C2OvTmepLms/?img_index=2) 
 
 ## 📙 Activity (Others)
 * 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)

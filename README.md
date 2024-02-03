@@ -35,6 +35,7 @@ See [Localizations.md](./LOCALIZATIONS.md)
 
 ## 📙 Activity (Others)
 * 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)
+* 2023/04 TOPCIT Score *** (1st award in Kwangwoon University)
 * 2023/11 TOPCIT Score 730 (1st award in Kwangwoon University)
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 2021 국방 START-UP 챌린지 국방부장관상 (우수상)

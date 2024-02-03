@@ -35,13 +35,12 @@ See [Localizations.md](./LOCALIZATIONS.md)
 
 ## 📙 Activity (Others)
 * 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)
-* 2023/04 TOPCIT Score *** (1st award in Kwangwoon Univeristy)
-* 2023/11 TOPCIT Score 7** (1st award in Kwangwoon University)
+* 2023/11 TOPCIT Score 730 (1st award in Kwangwoon University)
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 2021 국방 START-UP 챌린지 국방부장관상 (우수상)
 * 2022 SW Maestro 13rd
 * 2023 Open Source Contribution Academy Mentee - uftrace (최우수상)
-* 2023 TOPCIT 국방부장관상
+* 2023/11 TOPCIT 육군참모총장상
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)

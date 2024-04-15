@@ -2,12 +2,12 @@
 
 If you want to contact me, or need my help(about Localization/Reversing/Modding/Web or anything!) please mail me through my profile.
 
-[My userpage](http://mirunamu.kro.kr/).
+[My Homepage](https://mir.sh/).
 
 [My LinkedIn Profile](https://www.linkedin.com/in/seong-jin-kim-031b08228/)
 
 ## 🇰🇷 Activity (Localization)
-See [Localizations.md](./LOCALIZATIONS.md)
+See [Here](https://mir.sh/translations)
 
 ## ✈ Projects
 * [Harvest Moon(DS) translate tools](https://github.com/mirusu400/HarvestMoon_Translate_Tools)  - 목장이야기 시리즈 번역 도구
@@ -19,30 +19,12 @@ See [Localizations.md](./LOCALIZATIONS.md)
 * [Raycity custom DB](https://github.com/mirusu400/Raycity-CustomDB-backup)  - Database by reversing leaked Raycity server
 * [Pyslayer](https://github.com/mirusu400/PySlayer)                          - Server emulator of game `WindSlayer`
 
-## 🚩 Activity (CTF / Bug Bounty)
-* 2020 - 다운로드 수 100만회 APP 관리자권한 탈취 취약점 발견
-* [사이버 공격방어 대회(CCE) 2021 Qualifier (Public)](https://github.com/mirusu400/mirusu400/blob/main/CCE2021.PNG?raw=true)
-* Layer7 CTF 2021 6th prize (General)
-* BISC CTF 2021 4th prize (종합)
-* [t3n4ci0us Christmas CTF 2021 1st prize](https://github.com/mirusu400/mirusu400/blob/main/Certificationmirusu400.jpg?raw=true)
-* [t3n4ci0us CTF 2022 종합 1st prize](https://github.com/mirusu400/mirusu400/blob/main/t3n4ci0us_mirusu400.jpg?raw=true)
-* [2022 Wooricon 3rd Prize (우리은행 모의해킹 경진대회, 우수상)](http://www.koreastocknews.com/news/articleView.html?idxno=75209)
-* 2022 Naver Bug Bounty Hall of Fame
-* 2023 Naver Bug Bounty Hall of Fame
-* [2023 Kakao Bug Bounty Hall of Fame](https://bugbounty.kakao.com/notice/halloffame)
-* [2023 Whitehat together 2nd Price (화이트햇 투게더 시즌2, 우수상)](https://boannews.com/media/view.asp?idx=124743)
-* [2023 Findthegap X-MAS Catch the Bug 2nd Price](https://www.instagram.com/p/C2OvTmepLms/?img_index=2) 
+## 🚩 Activity (CTF / Bug Bounty / Awards)
+See [Here](https://mir.sh/awards_bugbounty)
 
 ## 📙 Activity (Others)
-* 2022/11 TOPCIT Score 635 (1st award in Kwangwoon University)
-* 2023/04 TOPCIT Score *** (1st award in Kwangwoon University)
-* 2023/11 TOPCIT Score 730 (1st award in Kwangwoon University)
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
-* 2021 국방 START-UP 챌린지 국방부장관상 (우수상)
 * 2022 SW Maestro 13rd
-* 2023 Open Source Contribution Academy Mentee - uftrace (최우수상)
-* 2023/11 TOPCIT 육군참모총장상
-
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mirusu400)](https://solved.ac/mirusu400)
 

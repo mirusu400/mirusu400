@@ -1,6 +1,7 @@
 # I'm mirusu400.
 
-If you want to contact me, or need my help(about Localization/Reversing/Modding/Web or anything!) please mail me through my profile.
+Interest: Pentesting, Modding, Open-source Contribution, Reversing, Web-related, Embedded-related, etc..
+If you need any of my help, don't hesitate to contact. (via my email)
 
 [My Homepage](https://mir.sh/).
 
@@ -16,13 +17,13 @@ See [Here](https://mir.sh/translations)
 * [klas-helper](https://github.com/klas-helper/klas-helper)                                     - 광운대학교 KLAS 확장프로그램 (Main contributor)
 
 ## ✈ Projects..?
-* [Raycity custom DB](https://github.com/mirusu400/Raycity-CustomDB-backup)  - Database by reversing leaked Raycity server
 * [Pyslayer](https://github.com/mirusu400/PySlayer)                          - Server emulator of game `WindSlayer`
 
 ## 🚩 Activity (CTF / Bug Bounty / Awards)
 See [Here](https://mir.sh/awards_bugbounty)
 
 ## 📙 Activity (Others)
+* 교내 컴퓨터동아리 COMs 홍보부 (2023.03 ~ 2023.12), 교내 보안동아리 BlackCat 회장 (2023.06 ~ 2023.12)
 * 공군 주전산기정보보호병 (2020.09 ~ 2022.06)
 * 2022 SW Maestro 13rd
 

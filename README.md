@@ -2,7 +2,7 @@
 
 Interest: Pentesting, Modding, Open-source Contribution, Reversing, Web-related, Embedded-related, etc..
 
-If you need any of my help, don't hesitate to contact. (via my email)
+If you need any help, feel free to contact me via email.
 
 [My Homepage](https://mir.sh/).
 

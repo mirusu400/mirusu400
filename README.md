@@ -17,8 +17,6 @@ See [Here](https://mir.sh/translations)
 * [drawfontimage](https://github.com/mirusu400/drawfontimage)                                   - 폰트를 고정폭 이미지 파일로 생성해주는 도구
 * [klas-helper](https://github.com/klas-helper/klas-helper)                                     - 광운대학교 KLAS 확장프로그램 (Main contributor)
 
-## ✈ Projects..?
-* [Pyslayer](https://github.com/mirusu400/PySlayer)                          - Server emulator of game `WindSlayer`
 
 ## 🚩 Activity (CTF / Bug Bounty / Awards)
 See [Here](https://mir.sh/awards_bugbounty)

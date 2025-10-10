@@ -1,6 +1,6 @@
 # I'm mirusu400.
 
-Interest: Pentesting, Modding, Open-source Contribution, Reversing, Web-related, Embedded-related, etc..
+Interest: Pentesting, Modding, Open-source Contribution, Reversing, Web, etc..
 
 If you need any help, feel free to contact me via email.
 

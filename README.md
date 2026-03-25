@@ -6,7 +6,7 @@ If you need any help, feel free to contact me via email.
 
 [My Homepage](https://mir.sh/).
 
-[My LinkedIn Profile](https://www.linkedin.com/in/seong-jin-kim-031b08228/)
+[My LinkedIn Profile](https://www.linkedin.com/in/seongjin-kim-031b08228/)
 
 ## 🇰🇷 Activity (Localization)
 See [Here](https://mir.sh/translations)
